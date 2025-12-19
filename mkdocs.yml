@@ -51,7 +51,7 @@ theme:
         name: Switch to light mode
 
 nav:
-  - Introduction: introduction.md
+  - Introduction: index.md
   - Inital Setup For Tutorial: inital_setup.md
   - Some C++ Concepts: some_cplus_concept.md
   - Gazebo Structure (Plugin Perspective): gz-structure-plugin-perspective.md
