@@ -14,9 +14,9 @@ rclcpp we can direct use standard ros2 ```publisher/subscriber```,```service/cli
  ros executor code snap
 
 ```c++
-    rclcpp::executors::SingleThreadedExecutor executor;
-    executor.add_node(node);
-    executor.spin();  // blocks this thread, one callback at a time
+rclcpp::executors::SingleThreadedExecutor executor;
+executor.add_node(node);
+executor.spin();  // blocks this thread, one callback at a time
 ```
 
 <br>
