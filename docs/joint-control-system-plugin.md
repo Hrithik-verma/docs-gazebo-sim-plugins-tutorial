@@ -8,9 +8,9 @@ We are goining to write a joint control system plugin to control one joint using
 we will control ```joint_1``` 
 
 using 3 methods:
-1. Velocity
-2. Force
-3. Position
+1. Velocity<br>
+2. Force<br>
+3. Position<br>
 
 
 ## 1. Find the Joint Entity
