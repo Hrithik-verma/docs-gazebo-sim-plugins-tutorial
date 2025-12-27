@@ -71,6 +71,7 @@ nav:
         - Light Control Service Way: light-control-service-way-plugin.md
         - Light Control Using Direct ROS2 Plugin: light-control-direct-ros-plugin.md
         - Joint Control System Plugin: joint-control-system-plugin.md
+        - Animal Actor Follow WayPoint Plugin: animal-actor-follow-waypoints-plugin.md
 
 
 plugins:
