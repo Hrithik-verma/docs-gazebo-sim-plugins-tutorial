@@ -72,6 +72,7 @@ nav:
         - Light Control Using Direct ROS2 Plugin: light-control-direct-ros-plugin.md
         - Joint Control System Plugin: joint-control-system-plugin.md
         - Animal Actor Follow WayPoint Plugin: animal-actor-follow-waypoints-plugin.md
+  - Real Gazebo Sim Repo Examples + Pro Tips, Pimpl Pattern: example-from-gazebo-sim-repo-and-pro-tips.md
 
 
 plugins:
