@@ -42,7 +42,7 @@ It has all docs related to Gazebo Sim lugins Youtube Tutorial series.
 
 <br>
 
-YouTube Tutorial
+ 🎥 YouTube Tutorial
 ----------------
 [![Gazebo Sim Plugin Made Easy](https://img.youtube.com/vi/mE00kjWPwVw/0.jpg)](https://youtube.com/playlist?list=PLOQhCaBjYnsdGPI8sDskC2roKaCjJ1LTU)
 
